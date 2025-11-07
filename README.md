@@ -49,14 +49,14 @@ Guide-to-Large-Multimodal-Models/
 ```
 ## 📊 Framework Visuals
 
-### DISCO Flow Chart
-<p align="center">
-  <img src="Assets/Images/DISCO-Flow-Chart.png" alt="DISCO Flow Chart" width="800"/>
-</p>
-
 ### Guide Map
 <p align="center">
   <img src="Assets/Images/Guide-Map.png" alt="Guide Map" width="800"/>
+</p>
+
+### DISCO Flow Chart
+<p align="center">
+  <img src="Assets/Images/DISCO-Flow-Chart.png" alt="DISCO Flow Chart" width="800"/>
 </p>
 
 ---
