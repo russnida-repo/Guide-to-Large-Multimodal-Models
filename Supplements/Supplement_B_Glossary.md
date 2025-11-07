@@ -1,7 +1,5 @@
-\# Supplement B — Glossary of Key Terms and Concepts
-
-\### Version 1.1 — November 2025
-
+# Supplement B - Glossary of Key Terms and Concepts
+### Version 1.1 - November 2025
 ---
 
 Purpose and Scope This Glossary provides concise definitions for key
