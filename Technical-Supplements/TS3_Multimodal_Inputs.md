@@ -1,3 +1,7 @@
+# Technical Supplement 3 — Mastering Multimodal Inputs
+### Version 1.1 — November 2025
+---
+
 # Guide to Using Large Multimodal Models v1.1
 
 *Technical Supplement 3 - Mastering Multimodal Inputs: Vision, Audio,
