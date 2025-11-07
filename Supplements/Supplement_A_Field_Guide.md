@@ -1,3 +1,7 @@
+# Supplement A — The LMM Operator’s Field Guide
+### Version 1.1 — November 2025
+---
+
 **Purpose and Scope**  
 This Field Guide provides a concise, at-a-glance summary of the core
 principles, frameworks, and workflows from the Core Guide. It distills
