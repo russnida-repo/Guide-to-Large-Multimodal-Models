@@ -1,3 +1,7 @@
+# Technical Supplement 1 — Advanced Prompt Engineering Patterns
+### Version 1.1 — November 2025
+---
+
 **About This Supplement**
 
 **Purpose & Scope  **
