@@ -125,11 +125,3 @@ Creative Commons BY-NC-SA 4.0.
 Available at: https://github.com/russnida-repo/Guide-to-Large-Multimodal-Models
 ```
 
----
-
-## 📅 Next Release
-Version 1.2 is scheduled for Q1 2026 and will include:
-- Additional diagrams and quick-reference tables  
-- Example prompt repositories (“Good vs. Bad Prompts”)  
-- Expanded governance templates  
-- Enhanced verification and audit documentation
