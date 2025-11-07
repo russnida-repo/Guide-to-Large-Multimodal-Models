@@ -1,6 +1,6 @@
 # Guide to Using Large Multimodal Models  
 ### Version 1.1 — November 2025  
-© 2025 Russell Nida. Released under [CC BY-NC-ND 4.0 License](LICENSE).  
+© 2025 Russell Nida. Released under [CC BY-NC-SA 4.0 License](LICENSE).  
 ---
 
 ## 📘 Overview
@@ -110,9 +110,10 @@ See the [Version History](https://github.com/russnida-repo/Guide-to-Large-Multim
 ---
 
 ## 📜 License
-This work is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**.  
-You may share it freely with attribution but may not sell or modify it.  
-See the [LICENSE](https://github.com/russnida-repo/Guide-to-Large-Multimodal-Models/blob/main/LICENSE) file for details.
+This work is licensed under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.  
+You may share and adapt this work freely for non-commercial and educational purposes, provided you give appropriate credit, link to the license, and distribute any derivatives under the same license.  
+You may not sell or use this work or its derivatives for commercial gain.  
+See the [LICENSE](https://github.com/russnida-repo/Guide-to-Large-Multimodal-Models/blob/main/LICENSE.md) file or [Creative Commons License Summary](https://creativecommons.org/licenses/by-nc-sa/4.0/) for details.
 
 ---
 
@@ -120,7 +121,7 @@ See the [LICENSE](https://github.com/russnida-repo/Guide-to-Large-Multimodal-Mod
 If referencing this guide or its supplements:
 ```
 Nida, R. (2025). Guide to Using Large Multimodal Models, Version 1.1.
-Creative Commons BY-NC-ND 4.0.
+Creative Commons BY-NC-SA 4.0.
 Available at: https://github.com/russnida-repo/Guide-to-Large-Multimodal-Models
 ```
 
