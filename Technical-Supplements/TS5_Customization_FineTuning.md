@@ -1,3 +1,7 @@
+# Technical Supplement 5 — Customization & Fine-Tuning Frameworks
+### Version 1.1 — November 2025
+---
+
 **Purpose & Scope  **
 This supplement provides a strategic overview and implementation
 frameworks for customizing LMMs—from prompt-tuning to RAG and
