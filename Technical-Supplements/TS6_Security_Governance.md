@@ -1,3 +1,7 @@
+# Technical Supplement 6 — Security & Governance Framework for Trustworthy AI Operations
+### Version 1.1 — November 2025
+---
+
 **Purpose & Scope  **
 This supplement defines the organizational, technical, and procedural
 controls required to operate LMMs securely and in compliance with
