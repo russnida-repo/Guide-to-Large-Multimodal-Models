@@ -1,3 +1,9 @@
+# Guide to Using Large Multimodal Models  
+### Version 1.1 — November 2025
+---
+
+A structured guide to using Large Multimodal Models responsibly and effectively, including technical supplements and governance frameworks.
+
 **Purpose and Scope**  
 This core guide provides the essential foundation for using Large
 Multimodal Models (LMMs) reliably and responsibly. It establishes the
@@ -1528,4 +1534,3 @@ Guide**.
 This section distills the guide into daily-use references. Keep it
 visible where you work: it turns structured prompting and verification
 into habit, not theory.
-
