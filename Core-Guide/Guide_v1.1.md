@@ -88,8 +88,9 @@ depth of information you need, when you need it.
 This diagram shows how all guides and supplements in the series connect.
 Use it to quickly find the right resource for your specific needs
 
-<img src="media/image1.png" style="width:6.5in;height:3.68958in"
-alt="A diagram of a company AI-generated content may be incorrect." />
+<p align="center">
+  <img src="../Assets/Images/Guide-Map.png" alt="Guide Map" width="800">
+</p>
 
 # Contents
 
@@ -1534,5 +1535,6 @@ Guide**.
 This section distills the guide into daily-use references. Keep it
 visible where you work: it turns structured prompting and verification
 into habit, not theory.
+
 
 
