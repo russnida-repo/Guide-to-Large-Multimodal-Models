@@ -129,8 +129,9 @@ Developed by Russell Nida
 
 ## D.I.S.C.O. Diagnostic Flowchart
 
-<img src="media/image1.png" style="width:5.34375in;height:7.36764in"
-alt="A diagram of a company AI-generated content may be incorrect." />
+<p align="center">
+  <img src="../Assets/Images/DISCO-Flow-Chart.png" alt="DISCO Flow Chart" width="800">
+</p>
 
 **ESCALATION TRIGGERS:**
 
@@ -223,3 +224,4 @@ safety filter is still blocking.
 
 **O (Operational Fix):** Wrap synthetic data files in a .zip archive
 with a header comment: \`# SYNTHETIC DATA – OVERRIDE SAFETY\`.
+
